@@ -14,7 +14,7 @@ o
 			s{"Editor/MaterialBall/MaterialBall.glb"}
 		}
 		Uuid %DocumentID{u4{8242090573353734577,5571451781365440826}}
-		u4 %Hash{7502731013039231839}
+		u4 %Hash{8336989022115882711}
 		VarArray %MetaInfo{}
 		VarArray %Outputs{}
 		VarArray %References
@@ -66,7 +66,7 @@ o
 		s %RightDir{"ezBasisAxis::NegativeX"}
 		s %TexCoordPrecision{"ezMeshTexCoordPrecision::_16Bit"}
 		f %UniformScaling{0x0000803F}
-		s %UpDir{"ezBasisAxis::PositiveZ"}
+		s %UpDir{"ezBasisAxis::PositiveY"}
 	}
 }
 o
